@@ -1,0 +1,46 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* style for all page */
+body{
+    font-weight: Roboto,Arial;
+   
+    margin: 0;
+    height: 5200px;
+    padding-top: 80px;
+    padding-left: 96px;
+    padding-right: 25px;
+   
+    background-color: rgb(255, 255, 255);
+}
+.site-footer {
+  background-color: #d7d0d0;
+  color: #070807;
+  padding: 25px 10px;
+}
+
+.footer-content {
+  text-align: left;
+ margin-left: 2px;
+}
+
+.footer-links {
+  margin-top: 100px;
+}
+
+.footer-links a {
+  color: #242424;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+
+}
+.footer-links .instagram-link{
+    color: red;
+}
+
