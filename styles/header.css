@@ -43,8 +43,10 @@
 }
 .search-button,
 .voice-search-button,
-.upload-icon-container
-{
+.upload-icon-container,
+.yt-apps-tool,
+.notifiction-container,
+.profile-pic{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -53,8 +55,10 @@
 }
 .search-button .toolkip,
 .voice-search-button .toolkip,
-.upload-icon-container .toolkip
-{
+.upload-icon-container .toolkip,
+.yt-apps-tool .toolkip,
+.notifiction-container .toolkip,
+.profile-pic .toolkip{
     
     position: absolute;
     background-color: gray;
@@ -73,9 +77,10 @@
 }
 .search-button:hover .toolkip,
 .voice-search-button:hover .toolkip,
-.upload-icon-container:hover .toolkip
-
- {
+.upload-icon-container:hover .toolkip,
+.yt-apps-tool:hover .toolkip,
+.notifiction-container:hover .toolkip,
+.profile-pic:hover .toolkip{
     opacity: 1;
 }
 .search-bar{

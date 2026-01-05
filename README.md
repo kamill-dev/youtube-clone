@@ -1,35 +1,48 @@
-# YouTube Clone (Frontend)
 
-This is a **YouTube homepage clone (frontend only)** built using **HTML, CSS**.  
-The project focuses on recreating the look and layout of YouTube’s home screen, including the header, sidebar, and video grid.
 
-This project was created for **practice and learning purposes**, mainly to improve frontend skills and understand real-world UI structure.
+<hr>
 
----
+<div style="background-color:#0d1117; color:#c9d1d9; padding:40px; border-radius:12px;">
 
-## 🚀 Features
+<h1 align="center">📌 Project Highlights</h1>
 
-- YouTube-like header with search bar and icons
-- Sidebar navigation (Home, Explore, Subscriptions, etc.)
-- Video grid layout similar to YouTube homepage
-- Responsive design for different screen sizes
-- Clean and simple UI
+<p align="center">
+A clean, minimal YouTube homepage clone focused on layout accuracy and responsiveness.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🔥 What Makes This Project Special?
 
-- **HTML5** – Page structure  
-- **CSS3** – Styling and layout (Flexbox / Grid)  
-- **JavaScript (Vanilla)** – Basic interactivity  
+- Pixel-inspired layout similar to real YouTube UI  
+- Proper spacing, alignment & visual hierarchy  
+- Beginner-friendly yet production-style structure  
+- Built without frameworks — pure fundamentals  
 
 ---
 
-## 👤 Author
+### 🧠 Skills Demonstrated
 
-**Kamil Bhat**
+- HTML semantic structure  
+- CSS Flexbox & Grid mastery  
+- Responsive design mindset  
+- UI cloning & attention to detail  
 
-If you liked this project, feel free to ⭐ the repository!
+---
 
+### 📈 Why This Project Matters?
+
+This clone proves my ability to:
+- Convert real-world designs into code  
+- Build structured, scalable frontend layouts  
+- Understand modern UI/UX patterns  
+
+---
+
+<p align="center">
+<b>If you liked this project, feel free to ⭐ the repository!</b>
+</p>
+
+</div>
 
 
