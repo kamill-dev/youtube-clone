@@ -39,6 +39,13 @@ This clone proves my ability to:
 
 ---
 
+### Tech stack.
+
+HTML
+CSS
+
+---
+
 <p align="center">
 <b>If you liked this project, feel free to ⭐ the repository!</b>
 </p>
