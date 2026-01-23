@@ -41,8 +41,8 @@ This clone proves my ability to:
 
 ### Tech stack.
 
-HTML
-CSS
+-HTML
+-CSS
 
 ---
 
