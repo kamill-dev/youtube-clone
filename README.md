@@ -35,7 +35,7 @@ A clean, minimal YouTube homepage clone focused on layout accuracy and responsiv
 This clone proves my ability to:
 - Convert real-world designs into code  
 - Build structured, scalable frontend layouts  
-- Understand modern UI/UX patterns  
+
 
 ---
 
