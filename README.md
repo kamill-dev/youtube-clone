@@ -26,7 +26,7 @@ A clean, minimal YouTube homepage clone focused on layout accuracy and responsiv
 - HTML semantic structure  
 - CSS Flexbox & Grid mastery  
 - Responsive design mindset  
-- UI cloning & attention to detail  
+
 
 ---
 
